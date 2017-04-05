@@ -2,24 +2,30 @@
 
 Du vendredi 22 septembre 2017 à 08h00 au samedi 23 septembre 2017 à 17h00.
 
-À Bidart, Aquitaine
+À Bidart, Aquitaine, France
 
 ##Description
 
-En 2016, la première édition d'Agile Pays Basque a attiré près de 150 participants, bénéficié d'une programmation riche et de qualité, et de conditions estivales exceptionnelles.
-La bienveillance et l'énergie des participants nous a donner l'envie de renouveller cette événement, en continuant à améliorer une recette qui à déjà bien fonctionné la première fois.
+En 2016, la première édition d'Agile Pays Basque a tenu ses promesses.
+Sous un soleil radieux, les deux jours de conférence, atelier et retours d'experience ont attirés près de 150 participants.
+La qualité des orateurs et la richesse de la programmation ont fait de cet événement une réussite et l'enthousiasme des participants a conforté notre envie de renouveller l'experience.
 
-Notre vision c'est le partage et la bienveillance, donc en 2017, venez découvrir, approfondir, échanger autour de l'agilité.
+**Agile Pays Basque 2017 aura lieu les 22 et 23 Septembre 2017 à Bidart (à côté de Biarritz)**
 
-Agile Pays-Basque 2017 aura lieu les 22 et 23 Septembre 2017 à Bidart (à côté de Biarritz).
+Cette année encore l'évenement sera étalé sur 2 jours :
+-   Le vendredi sera rythmé par un programme qui mêlera présentations et ateliers ludiques
+-   Le samedi sera exclusivement sous forme de forum ouvert (open-space), où vous pourrez proposer et/ou choisir vos sujets pour échanger avec les agilistes présents.
 
-1 jour de conférences,  retours d'expérience, ateliers et jeux sur des sujets qui portent les valeurs de l'agilité : Scrum, Kanban, XP, Lean Startup, UX, artisanant du logiciel (software craftsmanship), Entreprise libérée, Facilitation graphique et bien d'autre encore.
+Notre vision c'est le partage et la bienveillance, c'est un rendez-vous pour tous (professionnels, enseignants et étudiants).
+Venez si vous savez (ou souhaitez savoir) conjuger à toutes les "persona" les verbes découvrir, échanger, apprendre, expérimenter, tester, approfondir, ou discuter.
+On ne s'adresse pas qu'au monde de l'IT, les domaines d'applications de l'agilité sont nombreux (éducation, santé, RH, industrie, ...), et pourrait s'étendre potentiellement à toute activité qui touche à la réalisation en équipe de quelque chose pour quelqu'un.
 
-C'est un rendez-vous ouvert destiné aux professionnels, aux enseignants et aux étudiants qui souhaiteraient savoir comment s'y prendre, découvrir, échanger, apprendre, expérimenter, tester, approfondir leurs connaissances, ou simplement discuter autour de l’agilité.
+Les thèmes abordés : Valeurs et principes agile, artisanat du logiciel (software craftsmanship), Scrum, Kanban, XP, Experience Utilisateurs, Entreprise libérée, Lean Startup, Management visuel, Facilitation graphique et  ... ce que vous apporterez.
 
-Vous êtes expert de l’agilité ? Vous avez utilisé les méthodes agiles dans un contexte spécifique ? Vous participez à un projet libre lié à l’agilité ? Alors n'hésitez pas à proposer une présentation, un atelier, un retour d’expérience ou un jeu !
+**Vous voulez partager votre vision agile avec nous?**
+Que vous soyez coach agile, équipier, scrum master, product owner, manager ou tout autre acteur qui cherche à promouvoir et partager les valeurs et principes agile ou de l'artisanat logiciel proposez nous votre sujet : http://tinyurl.com/agilepb-cfp17
 
-Pour soumettre une intervention, c'est par ici : http://tinyurl.com/agilepb-cfp17
+L'évenement est porté par l'association Agile Côte Basque mais aussi et surtout par tous ces participants (orateurs comme spectateurs), si vous souhaiter nous aider, rejoignez-nous
 
 ##Informations
 
