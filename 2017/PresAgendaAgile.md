@@ -16,9 +16,9 @@ Cette année encore l'évenement sera étalé sur 2 jours :
 -   Une journée de conférences et d'ateliers (le vendredi)
 -   Une journée sous la forme d'un forum ouvert, pour créér de façon émergente le programme avec les orateurs (le samedi)
 
-Nos valeurs sont le partage et la bienveillance, c'est un rendez-vous pour tous (professionnels, enseignants et étudiants).
+Notre vision c’est de promouvoir et de partager les valeurs et les pratiques agiles, en proposant un moment d’échange ouvert à tous (professionnels, enseignants et étudiants).
 Venez si vous savez (ou souhaitez savoir) conjuger à toutes les "persona" les verbes découvrir, échanger, apprendre, expérimenter, tester, approfondir, ou discuter.
-On ne s'adresse pas qu'au monde de l'IT, les domaines d'applications de l'agilité sont nombreux (éducation, santé, RH, industrie, ...), et pourrait s'étendre potentiellement à toute activité qui touche à la réalisation en équipe de quelque chose pour quelqu'un.
+On ne s'adresse pas qu'au monde de l'IT, les domaines d'applications de l'agilité sont nombreux (éducation, santé, RH, industrie, ...), et peuvent s'étendre à toute activité qui touche à la réalisation en équipe de quelque chose pour quelqu’un.
 
 Les thèmes abordés : Valeurs et principes agile, artisanat du logiciel (software craftsmanship), Scrum, Kanban, XP, Experience Utilisateurs, Entreprise libérée, Lean Startup, Management visuel, Facilitation graphique et  ... ce que vous apporterez.
 
