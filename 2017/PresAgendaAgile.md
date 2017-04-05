@@ -23,6 +23,7 @@ On ne s'adresse pas qu'au monde de l'IT, les domaines d'applications de l'agilit
 Les thèmes abordés : Valeurs et principes agile, artisanat du logiciel (software craftsmanship), Scrum, Kanban, XP, Experience Utilisateurs, Entreprise libérée, Lean Startup, Management visuel, Facilitation graphique et  ... ce que vous apporterez.
 
 **Vous voulez partager votre vision agile avec nous?**
+
 Que vous soyez coach agile, équipier, scrum master, product owner, manager ou tout autre acteur qui cherche à promouvoir et partager les valeurs et principes agile ou de l'artisanat logiciel proposez nous votre sujet : http://tinyurl.com/agilepb-cfp17
 
 L'évenement est porté par l'association Agile Côte Basque mais aussi et surtout par tous ces participants (orateurs comme spectateurs), si vous souhaiter nous aider, rejoignez-nous
