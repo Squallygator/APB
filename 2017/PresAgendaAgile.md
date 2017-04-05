@@ -28,7 +28,7 @@ Que vous soyez coach agile, équipier, scrum master, product owner, manager ou t
 
 L'évenement est porté par l'association Agile Côte Basque mais aussi et surtout par tous ses participants (orateurs comme spectateurs). Si vous souhaiter nous aider, rejoignez-nous.
 
-##Informations
+## Informations
 
 Site Web: [http://agile-paysbasque.fr/](http://agile-paysbasque.fr/)
 
