@@ -1,10 +1,10 @@
-##Date et lieu
+## Date et lieu
 
 Du vendredi 22 septembre 2017 à 08h00 au samedi 23 septembre 2017 à 17h00.
 
 À Bidart, Aquitaine, France
 
-##Description
+## Description
 
 En 2016, la première édition d'Agile Pays Basque a tenu ses promesses.
 Sous un soleil radieux, les deux jours de conférence, atelier et retours d'experience ont attirés près de 150 participants.
@@ -28,7 +28,7 @@ Que vous soyez coach agile, équipier, scrum master, product owner, manager ou t
 
 L'évenement est porté par l'association Agile Côte Basque mais aussi et surtout par tous ces participants (orateurs comme spectateurs), si vous souhaiter nous aider, rejoignez-nous
 
-##Informations
+## Informations
 
 Site Web: http://agile-paysbasque.fr/
 
