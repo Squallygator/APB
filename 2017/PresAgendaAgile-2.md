@@ -39,4 +39,4 @@ Site Web: [http://agile-paysbasque.fr/](http://agile-paysbasque.fr/)
 Contact: agilepb CHEZ gmail POINT com
 
 ## Tags
-#VenezOnADuJambon, #Apéro, #Surf, #Soleil, #Plage, #Agile, #SoftwareCraftmanship, #Management3.0
+#agilecotebasque, #agilepaysbasque, #venezonadujambon, #apero, #surf, #soleil, #plage, #agile, #software, #craftsmanship, #management3-0
