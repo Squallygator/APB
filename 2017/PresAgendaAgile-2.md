@@ -28,7 +28,7 @@ En tout cas, notre équipe bienveillante, enthousiaste et un peu barrée s'y emp
 
 Que vous soyez coach agile, équipier, scrum master, product owner, manager ou tout autre acteur qui cherche à promouvoir et partager les valeurs et principes agile ou de l'artisanat logiciel proposez nous votre sujet pour l'édition 2017 : [http://tinyurl.com/agilepb-cfp17](http://tinyurl.com/agilepb-cfp17).
 
-**Vous souhaiter participer à la communauté Agile Pays Basque ?**
+**Vous souhaitez participer à la communauté Agile Pays Basque ?**
 
 On a un slack pour ça, inscrivez-vous [http://tinyurl.com/agilepb-slack](http://tinyurl.com/agilepb-slack).
 
