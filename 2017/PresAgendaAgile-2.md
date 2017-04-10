@@ -20,7 +20,7 @@ Peut-être aussi aurez-vous l'occasion
 - d'apprécier l'air marin et les vagues
 - de déguster les spécialités culinaires locales
 - de profiter en toute décontraction d'une ambiance festive typique
-- de comprendrez, selon la météo, pourquoi il fait si bon vivre ici ou pourquoi l'herbe est si verte ;)
+- de comprendre, selon la météo, pourquoi il fait si bon vivre ici ou pourquoi l'herbe est si verte ;)
 
 En tout cas, notre équipe bienveillante, enthousiaste et un peu barrée s'y emploi depuis le début de l'année.
 
